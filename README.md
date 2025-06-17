@@ -1,5 +1,10 @@
+
+![github-repository-open-graph-template](https://github.com/user-attachments/assets/4891d29d-c42b-4c98-9e5b-1e6fd28a23ea)
+
 # Overview
 Github repository for managing requesting and adding new guest puzzles to the [Piece Together Animated Puzzle Game](https://animated-puzzles.specr.net)
+
+
 
 # How do I request a new puzzle?
 
